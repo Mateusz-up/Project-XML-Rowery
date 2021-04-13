@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bikes SYSTEM "bikes.dtd">
+<?xml-stylesheet type="text/xsl" href="bikes.xsl"?>
+<bikes>
+    <bike type="Mountain">
+        <name>HEXAGON X1</name>
+		<business>KROSS</business>
+		<wheels>26</wheels>
+		<color>Light Green</color>
+		<price>953</price>
+        <img>https://www.dobrerowery.pl/img/product_media/49001-50000/hexagon_x1_lime_black_glossy.png</img>
+    </bike>
+    <bike type="Mountain">
+        <name>SKYE WSD 650B WT</name>
+		<business>TREK</business>
+		<wheels>29</wheels>
+		<color>White</color>
+		<price>1520</price>
+        <img>https://www.dobrerowery.pl/img/product_media/49001-50000/Asset_423344_bi(2).jpg</img>
+    </bike>
+	<bike type="Mountain">
+        <name>REVEL 2</name>
+		<business>GIANT</business>
+		<wheels>26</wheels>
+		<color>Black-Red</color>
+		<price>1240</price>
+        <img>https://www.dobrerowery.pl/img/product_media/46001-47000/Revel_2_Black.jpg</img>
+    </bike>
+	<bike type="Mountain">
+        <name>SEET HARDNINE 2.0</name>
+		<business>HAIBIKE</business>
+		<wheels>29</wheels>
+		<color>Graphite</color>
+		<price>1470</price>
+        <img>https://www.dobrerowery.pl/img/product_media/52001-53000/1(51).png</img>
+    </bike>
+	<bike type="Road">
+        <name>KROSS LEVEL 6.0</name>
+		<business>KROSS</business>
+		<wheels>28</wheels>
+		<color>Black</color>
+		<price>1850</price>
+        <img>https://www.dobrerowery.pl/img/product_media/65001-66000/level_6_0_black_lime_graphite_matte(6).png</img>
+    </bike>
+	<bike type="Road">
+        <name>Pulso 1.0</name>
+		<business>KROSS</business>
+		<wheels>28</wheels>
+		<color>Silver</color>
+		<price>2000</price>
+        <img>https://rower.com.pl/images/cache/5/kross-pulso-1-0-894703-1600x1218.jpg</img>
+    </bike>
+	<bike type="Road">
+        <name>RACE 50</name>
+		<business>MERIDA</business>
+		<wheels>28</wheels>
+		<color>Black</color>
+		<price>2200</price>
+        <img>https://rower.com.pl/images/cache/4/merida-race-50-938381-1500x947.jpg</img>
+    </bike>
+	<bike type="BMX">
+        <name>Double X</name>
+		<business>MONZ</business>
+		<wheels>20</wheels>
+		<color>White</color>
+		<price>800</price>
+        <img>https://rower.com.pl/images/cache/f/monz-double-x-rower-bmx-20-cali-bialy-426951-1024x715.jpg</img>
+    </bike>
+	<bike type="BMX">
+        <name>Legion L10</name>
+		<business>MONGOOSE</business>
+		<wheels>20</wheels>
+		<color>Silver</color>
+		<price>1000</price>
+        <img>https://rower.com.pl/images/cache/2/mongoose-legion-l10-643122-1200x963.jpg</img>
+    </bike>
+	<bike type="BMX">
+        <name>Noot SL</name>
+		<business>HAIBIKE</business>
+		<wheels>20</wheels>
+		<color>Black</color>
+		<price>1100</price>
+        <img>https://rower.com.pl/images/cache/4/haibike-noot-sl-484110-950x558.png</img>
+    </bike>
+</bikes>

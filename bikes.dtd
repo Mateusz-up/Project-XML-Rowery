@@ -1,0 +1,10 @@
+<!ELEMENT bikes (bike)*>
+        <!ELEMENT bike (name|business|wheels|color|price|img)*>
+        <!ATTLIST bike
+                type CDATA #REQUIRED>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT business (#PCDATA)>
+        <!ELEMENT wheels (#PCDATA)>
+        <!ELEMENT color (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT img (#PCDATA)>

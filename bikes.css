@@ -1,0 +1,76 @@
+
+.bikes{
+	background-color: silver;
+	
+}
+
+#title {
+    text-align: center;
+	color: red;
+	font-size: 75px;
+}
+
+
+h2{
+	color: #A0522D;
+	text-align: center;
+	font-size: 67px;
+}
+h3{
+	color:#7FFFD4;
+	text-align: center;
+	font-size: 67px;
+	
+	
+}
+
+h4{
+	
+	color: #FFD700;
+	text-align:center;
+	font-size: 67px;
+	
+}
+
+
+.kind {
+  
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+   
+}
+
+
+.name {
+    font-size:95px;
+	color:#006400;
+	
+   
+}
+#Mountain {
+    background-color: #F5DEB3;
+    color: blue;
+}
+
+#Road {
+    background-color: #D2691E;
+	color: #4B0082;
+}
+
+#BMX {
+    background-color: #20B2AA;
+	color: #B22222;
+}
+
+p.data {
+    display: inline;
+	font-size: 55px;
+}
+
+
+img{
+	width: 445px;
+	heigh: 345px;
+
+}
